@@ -1,4 +1,4 @@
-data/
+#data/
 
 # use glob syntax.
 syntax: glob
